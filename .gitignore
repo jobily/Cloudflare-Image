@@ -14,7 +14,7 @@ wrangler.toml
 
 # next.js
 /.next/
-/out/
+
 
 # production
 /build
